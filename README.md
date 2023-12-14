@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kshitij Kutumbe
-- 👀 
 - 🌱 I’m currently working as a Data Scientist.
 - 📫 How to reach me: kshitijkutumbe@gmail.com
 
