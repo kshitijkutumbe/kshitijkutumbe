@@ -20,8 +20,10 @@
 
 **Connect with me:**
 
+kshitijkutumbe@gmail.com
+
 <code style="background: transparent;"><a href="https://www.linkedin.com/in/kshitij-kutumbe-b3b507141/" target="_blank"><img src="https://raw.githubusercontent.com/shashankdeshpande/github-profile-generator/main/logos/linkedin.svg" height="30" /></a></code><code style="background: transparent;"><a href="https://kshitijkutumbe.medium.com/" target="_blank"><img src="https://raw.githubusercontent.com/shashankdeshpande/github-profile-generator/main/logos/medium.svg" height="30" /></a></code>
-- kshitijkutumbe@gmail.com
+
 <!---
 kshitijkutumbe/kshitijkutumbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
