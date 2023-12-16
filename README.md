@@ -7,11 +7,6 @@
 - 🌱 Working on OpenAI+Langchain | Elasticsearch | HuggingFace Transformers | Semantic search | NLP
 - 💬 Ask me about anything, happy to help
 
-
-**Connect with me:**
-
-<code style="background: transparent;"><a href="https://www.linkedin.com/in/kshitij-kutumbe-b3b507141/" target="_blank"><img src="https://raw.githubusercontent.com/shashankdeshpande/github-profile-generator/main/logos/linkedin.svg" height="30" /></a></code><code style="background: transparent;"><a href="https://kshitijkutumbe.medium.com/" target="_blank"><img src="https://raw.githubusercontent.com/shashankdeshpande/github-profile-generator/main/logos/medium.svg" height="30" /></a></code>
-
 **My Tech stack**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
@@ -23,8 +18,10 @@
 <code><img height="30" src="https://camo.githubusercontent.com/4dd316a40c438ab1e740187556bcd89014be967abf928011e06a00b87fe83776/68747470733a2f2f63646e2e616e616c79746963737669646879612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30372f6c616e67636861696e332e706e67"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 
-- 📫 How to reach me: kshitijkutumbe@gmail.com
+**Connect with me:**
 
+<code style="background: transparent;"><a href="https://www.linkedin.com/in/kshitij-kutumbe-b3b507141/" target="_blank"><img src="https://raw.githubusercontent.com/shashankdeshpande/github-profile-generator/main/logos/linkedin.svg" height="30" /></a></code><code style="background: transparent;"><a href="https://kshitijkutumbe.medium.com/" target="_blank"><img src="https://raw.githubusercontent.com/shashankdeshpande/github-profile-generator/main/logos/medium.svg" height="30" /></a></code>
+kshitijkutumbe@gmail.com
 <!---
 kshitijkutumbe/kshitijkutumbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
