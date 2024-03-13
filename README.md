@@ -3,7 +3,7 @@
 
 **About me:**
 
-- 💻 Data scientist
+- 💻 Data Scientist
 - 🌱 Working on OpenAI+Langchain | Elasticsearch | HuggingFace Transformers | Semantic search | NLP
 - 💬 Ask me about anything, happy to help
 
