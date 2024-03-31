@@ -1,6 +1,9 @@
 ### 👋 Hi, I’m Kshitij Kutumbe!
 
-![](https://komarev.com/ghpvc/?username=kshitijkutumbe&label=PROFILE+VIEWS)
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+</div>
 **About me:**
 
 - 💻 Data Scientist
