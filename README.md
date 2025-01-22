@@ -8,7 +8,7 @@
 **About me:**
 
 - 💻 Data Scientist
-- 🌱 Working on OpenAI+Langchain | Llama | LoRA,QLoRA | Elasticsearch | HuggingFace Transformers | Semantic search | NLP
+- 🌱 Working on Knowledge Graphs | Langchain | LLM finetuning + quantization | Elasticsearch | Semantic search | NLP
 - 💬 Ask me about anything, happy to help
 
 **My Tech stack**
